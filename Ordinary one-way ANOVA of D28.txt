@@ -1,0 +1,27 @@
+"Number of families"	1							
+"Number of comparisons per family"	10							
+Alpha	0.05							
+								
+"Tukey's multiple comparisons test"	"Mean Diff."	"95.00% CI of diff."	"Below threshold?"	Summary	"Adjusted P Value"			
+"  Control vs. IBS-D"	-228.3	"-357.2 to -99.33"	Yes	**	0.0046	A-B		
+"  Control vs. PA（5mg/kg）"	34.35	"-94.60 to 163.3"	No	ns	0.8157	A-C		
+"  Control vs. PA（10mg/kg）"	60.19	"-68.76 to 189.1"	No	ns	0.4306	A-D		
+"  Control vs. PA（20mg/kg）"	79.33	"-49.61 to 208.3"	No	ns	0.2354	A-E		
+"  IBS-D vs. PA（5mg/kg）"	262.6	"133.7 to 391.6"	Yes	**	0.0024	B-C		
+"  IBS-D vs. PA（10mg/kg）"	288.5	"159.5 to 417.4"	Yes	**	0.0016	B-D		
+"  IBS-D vs. PA（20mg/kg）"	307.6	"178.7 to 436.6"	Yes	**	0.0011	B-E		
+"  PA（5mg/kg） vs. PA（10mg/kg）"	25.84	"-103.1 to 154.8"	No	ns	0.9188	C-D		
+"  PA（5mg/kg） vs. PA（20mg/kg）"	44.99	"-83.96 to 173.9"	No	ns	0.6532	C-E		
+"  PA（10mg/kg） vs. PA（20mg/kg）"	19.15	"-109.8 to 148.1"	No	ns	0.9698	D-E		
+								
+"Test details"	"Mean 1"	"Mean 2"	"Mean Diff."	"SE of diff."	n1	n2	q	DF
+"  Control vs. IBS-D"	609.0	837.2	-228.3	32.14	2	2	10.04	5
+"  Control vs. PA（5mg/kg）"	609.0	574.6	34.35	32.14	2	2	1.511	5
+"  Control vs. PA（10mg/kg）"	609.0	548.8	60.19	32.14	2	2	2.648	5
+"  Control vs. PA（20mg/kg）"	609.0	529.6	79.33	32.14	2	2	3.490	5
+"  IBS-D vs. PA（5mg/kg）"	837.2	574.6	262.6	32.14	2	2	11.55	5
+"  IBS-D vs. PA（10mg/kg）"	837.2	548.8	288.5	32.14	2	2	12.69	5
+"  IBS-D vs. PA（20mg/kg）"	837.2	529.6	307.6	32.14	2	2	13.53	5
+"  PA（5mg/kg） vs. PA（10mg/kg）"	574.6	548.8	25.84	32.14	2	2	1.137	5
+"  PA（5mg/kg） vs. PA（20mg/kg）"	574.6	529.6	44.99	32.14	2	2	1.979	5
+"  PA（10mg/kg） vs. PA（20mg/kg）"	548.8	529.6	19.15	32.14	2	2	0.8425	5
